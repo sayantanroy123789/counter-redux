@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+button{
+  color: rgb(30, 30, 30);
+  height: 34px;
+  width: 120px;
+  margin: 5px;
+  font-size: 16px;
+  background-color: aquamarine;
+  border-radius: 8px;
+  border: 1px solid blueviolet;
+  cursor: pointer;
+}
